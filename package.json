@@ -1,0 +1,53 @@
+{
+  "name": "swint",
+  "version": "0.1.0",
+  "description": "Swint - Integrated web server/client framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KnowRe/swint.git"
+  },
+  "keywords": [
+    "swint",
+    "web",
+    "framework"
+  ],
+  "author": "Kurt Cho <kivoloid@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnowRe/swint/issues"
+  },
+  "homepage": "https://github.com/KnowRe/swint",
+  "dependencies": {
+    "swint-akamai-purge": "^0.1.0",
+    "swint-builder-css": "^0.1.1",
+    "swint-builder-html": "^0.1.0",
+    "swint-builder-js": "^0.1.3",
+    "swint-builder-png": "^0.1.0",
+    "swint-builder-polymer": "^0.1.1",
+    "swint-builder-svg": "^0.1.0",
+    "swint-configure": "^0.1.0",
+    "swint-copy-dir": "^0.1.0",
+    "swint-fork": "^0.1.0",
+    "swint-helper": "^0.1.7",
+    "swint-middleware": "^0.1.1",
+    "swint-pipe": "^0.1.0",
+    "swint-proc-ops": "^0.1.5",
+    "swint-query": "^0.1.0",
+    "swint-redis-cache": "^0.1.0",
+    "swint-router": "^0.1.0",
+    "swint-s3upload": "^0.1.0",
+    "swint-secret": "^0.1.0",
+    "swint-server": "^0.1.0",
+    "swint-task": "^0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "eslint": "*",
+    "request": "^2.65.0"
+  }
+}
