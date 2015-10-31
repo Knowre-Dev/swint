@@ -4,7 +4,7 @@
   "description": "Swint - Integrated web server/client framework",
   "main": "lib/index.js",
   "scripts": {
-    "test": "eslint lib && mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
