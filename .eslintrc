@@ -19,6 +19,14 @@
 		"semi": [
 			2,
 			"always"
+		],
+		"space-after-keywords": [
+			2,
+			"never"
+		],
+		"space-before-blocks": [
+			2,
+			"always"
 		]
 	},
 	"globals": {
@@ -28,5 +36,7 @@
 		"es6": true,
 		"node": true
 	},
+	"plugins": [
+	],
 	"extends": "eslint:recommended"
 }
