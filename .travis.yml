@@ -4,3 +4,8 @@ node_js:
   - "5.0.0"
   - "4.2.4"
   - "4.0.0"
+deploy:
+  provider: script
+  script: npm publish
+  on:
+  	branch: stable
