@@ -1,14 +1,14 @@
 language: node_js
 node_js:
-	- "5.3.0"
-	- "5.0.0"
-	- "4.2.4"
-	- "4.0.0"
+  - "5.3.0"
+  - "5.0.0"
+  - "4.2.4"
+  - "4.0.0"
 deploy:
-	provider: npm
-	email: "dev@knowre.com"
-	api_key:
-		secure: "ByabEUzrd+pM/0qFzH2+Vc5fdi40/LHgZf5tbS3vBKnqEupnAZfosuInd85ZwzTrnNAvFylIufNhCMNVIBsgAjaQlROcv29Oe+HLycZt4R+snMDK5OWWNgWk64NZOQBX+rhJgMBezEmN5WXCzz/uk/btsEE/DcLDY/ioFZL9s1Any/IaYq9QlRGqBI5sAeF8RYfyfbhXu/2FABUmb2QfxEjy6pWWiaNamKUcQShPiTE6murCeIqvAe+tYY34UUm9ja3+VAwY3wywVl23MbLkEt1qtQixTF1CWP4GuvWlATYeJvPhWm2/9p7hGtb3/6ocQeXKi8+/jiCq0omoW3lbjvHYkThzsg2yfyFjUrYVHMnxB6DpK2QexgQC+zQGfBk1yWjjUGZnyW7zIalTImpB8hJsfiDe3GHlv9m1QDMwFfU1SOr440Kkmgpg0maAfgy4kaAS0+nsRn3h9G+QNJXt2FgBzRMlRUBg2CgXZe5fXvChjRAeU9JIG3OPF4Y3ewAbC0HafQqhI3qFyvXjLqLa0R8iJ7/dfyqC68ewHji2szk+2zfB6BUsA4ngM66eWebiCUDEwpkMEDC7IPN+rn+vBVsQCPIRDUg7L0OwrRUx8spyk88ZwVynzMWZ9sAylkjDtA63W5U+hqaWULffGBtYJLQOiv0m+5vZJPGfJsz31kI="
-	on:
-		branch: stable
-		node_js: "5.3.0"
+  provider: npm
+  email: "dev@knowre.com"
+  api_key:
+    secure: "ByabEUzrd+pM/0qFzH2+Vc5fdi40/LHgZf5tbS3vBKnqEupnAZfosuInd85ZwzTrnNAvFylIufNhCMNVIBsgAjaQlROcv29Oe+HLycZt4R+snMDK5OWWNgWk64NZOQBX+rhJgMBezEmN5WXCzz/uk/btsEE/DcLDY/ioFZL9s1Any/IaYq9QlRGqBI5sAeF8RYfyfbhXu/2FABUmb2QfxEjy6pWWiaNamKUcQShPiTE6murCeIqvAe+tYY34UUm9ja3+VAwY3wywVl23MbLkEt1qtQixTF1CWP4GuvWlATYeJvPhWm2/9p7hGtb3/6ocQeXKi8+/jiCq0omoW3lbjvHYkThzsg2yfyFjUrYVHMnxB6DpK2QexgQC+zQGfBk1yWjjUGZnyW7zIalTImpB8hJsfiDe3GHlv9m1QDMwFfU1SOr440Kkmgpg0maAfgy4kaAS0+nsRn3h9G+QNJXt2FgBzRMlRUBg2CgXZe5fXvChjRAeU9JIG3OPF4Y3ewAbC0HafQqhI3qFyvXjLqLa0R8iJ7/dfyqC68ewHji2szk+2zfB6BUsA4ngM66eWebiCUDEwpkMEDC7IPN+rn+vBVsQCPIRDUg7L0OwrRUx8spyk88ZwVynzMWZ9sAylkjDtA63W5U+hqaWULffGBtYJLQOiv0m+5vZJPGfJsz31kI="
+  on:
+    branch: stable
+    node_js: "5.3.0"
