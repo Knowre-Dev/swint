@@ -8,4 +8,4 @@ deploy:
   provider: script
   script: npm publish
   on:
-  	branch: stable
+    branch: stable
