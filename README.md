@@ -24,6 +24,8 @@ $ npm install --save swint
 * [swint-copy-dir](https://github.com/KnowRe/swint-copy-dir): The directory copying function wrapped for swint-task
 * [swint-s3upload](https://github.com/KnowRe/swint-s3upload): AWS S3 uploader for Swint batch task manager(swint-task)
 * [swint-akamai-purge](https://github.com/KnowRe/swint-akamai-purge): Sending purge request on akamai for Swint batch task manager(swint-task)
+* [swint-cloudfront-purge](https://github.com/KnowRe/swint-cloudfront-purge): Sending purge request on cloudfront for Swint batch task manager(swint-task)
+* [swint-yuidoc](https://github.com/KnowRe/swint-yuidoc): YUIDoc builder for Swint
 
 ### Server-side components
 * [swint-fork](https://github.com/KnowRe/swint-fork): Process behaviour(fork, common/separate execution of code chunk, etc.) manager for Swint
