@@ -52,6 +52,6 @@
   "devDependencies": {
     "mocha": "*",
     "eslint": "*",
-    "request": "^2.65.0"
+    "request": "^2.69.0"
   }
 }
