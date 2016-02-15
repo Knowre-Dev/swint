@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "mocha": "^2.4.5",
-    "eslint": "^1.10.3",
+    "eslint": "^2.1.0",
     "request": "^2.69.0"
   }
 }
