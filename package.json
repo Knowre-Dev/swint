@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KnowRe/swint.git"
+    "url": "https://github.com/Knowre-Dev/swint.git"
   },
   "keywords": [
     "swint",
@@ -19,12 +19,12 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KnowRe/swint/issues"
+    "url": "https://github.com/Knowre-Dev/swint/issues"
   },
   "engines": {
     "node": ">=4.0.0"
   },
-  "homepage": "https://github.com/KnowRe/swint",
+  "homepage": "https://github.com/Knowre-Dev/swint",
   "dependencies": {
     "swint-akamai-purge": "1.x",
     "swint-builder-css": "2.x",
