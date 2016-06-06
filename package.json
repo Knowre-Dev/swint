@@ -1,6 +1,6 @@
 {
   "name": "swint",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Swint - Integrated web server/client framework",
   "main": "lib/index.js",
   "scripts": {
@@ -51,8 +51,8 @@
     "swint-yuidoc": "1.x"
   },
   "devDependencies": {
-    "mocha": "^2.4.5",
-    "eslint": "^2.2.0",
-    "request": "^2.69.0"
+    "mocha": "^2.5.3",
+    "eslint": "^2.11.1",
+    "request": "^2.72.0"
   }
 }
