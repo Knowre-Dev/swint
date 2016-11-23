@@ -1,6 +1,6 @@
 {
   "name": "swint",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Swint - Integrated web server/client framework",
   "main": "lib/index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "swint-builder-html": "1.x",
     "swint-builder-js": "1.x",
     "swint-builder-png": "1.x",
-    "swint-builder-polymer": "2.x",
+    "swint-builder-polymer": "2.2.x",
     "swint-builder-svg": "1.x",
     "swint-cloudfront-purge": "1.x",
     "swint-configure": "1.x",
