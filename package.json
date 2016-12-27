@@ -1,6 +1,6 @@
 {
   "name": "swint",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Swint - Integrated web server/client framework",
   "main": "lib/index.js",
   "scripts": {
