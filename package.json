@@ -37,7 +37,7 @@
     "swint-configure": "1.0.4",
     "swint-copy-dir": "1.0.4",
     "swint-fork": "1.2.3",
-    "swint-helper": "1.2.0",
+    "swint-helper": "1.2.1",
     "swint-middleware": "1.1.3",
     "swint-pipe": "1.0.4",
     "swint-proc-ops": "1.0.4",
