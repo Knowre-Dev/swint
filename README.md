@@ -1,4 +1,6 @@
 # swint
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Knowre-Dev/swint.svg)](https://greenkeeper.io/)
 Swint - Integrated web server/client framework
 
 ## Installation
