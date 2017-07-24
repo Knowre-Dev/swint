@@ -48,7 +48,7 @@
     "swint-secret": "1.0.10",
     "swint-server": "1.2.0",
     "swint-task": "1.0.8",
-    "swint-yuidoc": "1.0.8"
+    "swint-yuidoc": "1.0.9"
   },
   "devDependencies": {
     "mocha": "3.4.2",
