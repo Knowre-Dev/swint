@@ -47,7 +47,7 @@
     "swint-s3upload": "1.1.7",
     "swint-secret": "1.0.10",
     "swint-server": "1.2.0",
-    "swint-task": "1.0.8",
+    "swint-task": "1.0.9",
     "swint-yuidoc": "1.0.8"
   },
   "devDependencies": {
