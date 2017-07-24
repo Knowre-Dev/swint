@@ -36,7 +36,7 @@
     "swint-cloudfront-purge": "1.0.8",
     "swint-configure": "1.0.8",
     "swint-copy-dir": "1.0.8",
-    "swint-fork": "1.2.7",
+    "swint-fork": "1.2.8",
     "swint-helper": "1.2.5",
     "swint-middleware": "1.1.7",
     "swint-pipe": "1.0.8",
