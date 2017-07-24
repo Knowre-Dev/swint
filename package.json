@@ -28,7 +28,7 @@
   "dependencies": {
     "swint-akamai-purge": "1.0.8",
     "swint-builder-css": "2.0.10",
-    "swint-builder-html": "1.2.9",
+    "swint-builder-html": "1.2.10",
     "swint-builder-js": "1.0.10",
     "swint-builder-png": "1.0.8",
     "swint-builder-polymer": "2.2.6",
