@@ -33,7 +33,7 @@
     "swint-builder-png": "1.0.8",
     "swint-builder-polymer": "2.2.6",
     "swint-builder-svg": "1.0.9",
-    "swint-cloudfront-purge": "1.0.8",
+    "swint-cloudfront-purge": "1.0.9",
     "swint-configure": "1.0.8",
     "swint-copy-dir": "1.0.8",
     "swint-fork": "1.2.7",
