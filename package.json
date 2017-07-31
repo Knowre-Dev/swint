@@ -51,7 +51,7 @@
     "swint-yuidoc": "1.0.9"
   },
   "devDependencies": {
-    "mocha": "3.4.2",
+    "mocha": "3.5.0",
     "eslint": "4.3.0",
     "request": "2.81.0"
   }
