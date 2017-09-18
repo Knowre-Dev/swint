@@ -35,7 +35,7 @@
     "swint-builder-svg": "1.0.10",
     "swint-cloudfront-purge": "1.0.9",
     "swint-configure": "1.0.9",
-    "swint-copy-dir": "1.0.9",
+    "swint-copy-dir": "1.0.10",
     "swint-fork": "1.2.8",
     "swint-helper": "1.2.6",
     "swint-middleware": "1.1.8",
