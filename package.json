@@ -43,7 +43,7 @@
     "swint-proc-ops": "1.0.9",
     "swint-query": "1.2.1",
     "swint-redis-cache": "1.0.9",
-    "swint-router": "1.0.9",
+    "swint-router": "1.0.10",
     "swint-s3upload": "1.1.8",
     "swint-secret": "1.0.11",
     "swint-server": "1.2.1",
