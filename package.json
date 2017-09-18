@@ -40,7 +40,7 @@
     "swint-helper": "1.2.6",
     "swint-middleware": "1.1.8",
     "swint-pipe": "1.0.9",
-    "swint-proc-ops": "1.0.9",
+    "swint-proc-ops": "1.0.10",
     "swint-query": "1.2.1",
     "swint-redis-cache": "1.0.9",
     "swint-router": "1.0.9",
