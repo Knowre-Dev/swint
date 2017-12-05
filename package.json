@@ -27,7 +27,7 @@
   "homepage": "https://github.com/Knowre-Dev/swint",
   "dependencies": {
     "swint-akamai-purge": "1.0.8",
-    "swint-builder-css": "2.0.12",
+    "swint-builder-css": "2.0.13",
     "swint-builder-html": "1.2.11",
     "swint-builder-js": "1.0.12",
     "swint-builder-png": "1.0.10",
