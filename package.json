@@ -1,6 +1,6 @@
 {
   "name": "swint",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "description": "Swint - Integrated web server/client framework",
   "main": "lib/index.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "swint-configure": "1.0.11",
     "swint-copy-dir": "1.0.11",
     "swint-fork": "1.2.10",
-    "swint-helper": "1.2.8",
+    "swint-helper": "1.2.9",
     "swint-middleware": "1.1.10",
     "swint-pipe": "1.0.11",
     "swint-proc-ops": "1.0.12",
