@@ -43,10 +43,10 @@
     "swint-proc-ops": "1.0.12",
     "swint-query": "1.2.4",
     "swint-redis-cache": "1.0.11",
-    "swint-router": "1.0.11",
+    "swint-router": "1.1.0",
     "swint-s3upload": "1.1.10",
     "swint-secret": "1.0.13",
-    "swint-server": "1.2.3",
+    "swint-server": "1.3.0",
     "swint-task": "1.0.11",
     "swint-yuidoc": "1.0.12"
   },
