@@ -1,3 +1,6 @@
+2019.02.27, Version 2.5.1
+ * Update : travis deploy secure-key & Upgraded dependencies for swint-router, swint-server
+
 2019.02.27, Version 2.5.0
  * Upgrade: Upgraded dependencies for swint-router, swint-server
 
